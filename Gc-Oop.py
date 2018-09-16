@@ -1,4 +1,3 @@
-
 class Grade:
     __min__ = 0
     __max__ = 100
